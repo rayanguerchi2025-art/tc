@@ -16,6 +16,7 @@ def bubble_sort(arr):
 
 
 def main():
+    print("==this is our code==")
     print("=== TABLE SORTER ===")
     print("Enter numbers separated by spaces.")
     print("Example: 5 2 9 1 7")
